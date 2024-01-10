@@ -26,3 +26,8 @@ else {
     Console.WriteLine("2.Luku on liian suuri");
 }
 Console.WriteLine("LOPPU 2!");
+
+//toistorakenne
+for(int x=1; x<5; x++){
+    Console.WriteLine("Rivi = "+x);
+}

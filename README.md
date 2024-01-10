@@ -2,8 +2,6 @@
 
 Tässä harjoituksessa tutkittiin **if else** rakennetta.
 
-## Väliotsikko 1
+# Toistorakenne
 
-### Väliotsikko 1.1
-
-## Väliotsikko 2
+Harjoituksessa tutkittiin myös toistorakennetta eli for-looppia.
